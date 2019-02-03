@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JRK Kitchen Aid</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="action_add">Add New</string>
+</resources>
